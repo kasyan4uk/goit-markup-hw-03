@@ -199,7 +199,7 @@ color: var(--accent-color);
 
 .section-benefits {
     display: flex;
-    padding-bottom: 94px;
+    padding-bottom: 0px;
 }
 
 .section-benefits .item{
@@ -300,7 +300,7 @@ footer {
 }
 
 
-footer > a > .logo-studio {
+.container.footer > a > .logo-studio {
     color: var(--background-color);
 }
 

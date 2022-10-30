@@ -380,9 +380,6 @@ footer a:hover, footer a:focus {
 
 .portfolio-title {
     color: var(--title-text-color);
-    padding-top: 20px;
-    margin-right: 24px;
-    margin-left: 24px;
 
     font-size: 18px;
     line-height: 2;
@@ -392,13 +389,11 @@ footer a:hover, footer a:focus {
 .portfolio-container {
     border: 1px solid var(--border-portfolio);
     border-top: none;
+    padding: 20px 24px;
 }
 
 .portfolio-text {
     margin-top: 4px;
-    margin-right: 24px;
-    margin-left: 24px;
-    margin-bottom: 20px;
 
     font-size: 16px;
     line-height: 1.87;
